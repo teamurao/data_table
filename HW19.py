@@ -1,5 +1,3 @@
-# Настя Третьякова, 4 вариант
-
 import re
 from math import ceil
 
